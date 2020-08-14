@@ -1,4 +1,4 @@
-This is the dataset released with the paper "Show Me the Money: RFID-based Article-to-Fixture Predictions 
+This is the dataset released with the paper "Show Me the Money: RFID-based Article-to-Fixture Predictions
 for Fashion Retail Stores", which was accepted at the 14th International Conference on RFID.
 
 The dataset contains for each setup (i.e., laboratory and both stores) a ground truth mapping from 
@@ -51,3 +51,7 @@ Aditionally, it contains the read events collected for all performed stock takes
 
 
 Note that the dataset was anonymized by hashing the article numbers and recorded EPCs.
+
+When using the datasets please cite:
+M. Wölbitsch, T. Hasler, D. Helic, and S. Walk (2020) Show Me the Money: RFID-based Article-to-Fixture Predictions 
+for Fashion Retail Stores. In Proceedings of the 14th IEEE Conference on RFID (RFID'20)
