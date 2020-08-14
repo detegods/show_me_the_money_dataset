@@ -1,6 +1,8 @@
-This is the dataset released with the paper "Show Me the Money: RFID-based Article-to-Fixture Predictions for Fashion Retail Stores", which was accepted at the 14th International Conference on RFID.
+This is the dataset released with the paper "Show Me the Money: RFID-based Article-to-Fixture Predictions 
+for Fashion Retail Stores", which was accepted at the 14th International Conference on RFID.
 
-The dataset contains for each setup (i.e., laboratory and both stores) a ground truth mapping from items (articles) to fixtures:
+The dataset contains for each setup (i.e., laboratory and both stores) a ground truth mapping from 
+items (articles) to fixtures:
 
                                       EPC                                   Article Fixture
  15109CB457715E45447937489C2E746EF5DF317D  4D9AACF099EA1C326CF3B3DF438BB1B7963D54A9      23
